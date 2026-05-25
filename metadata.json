@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Circuitos Eléctricos",
+  "description": "Un simulador interactivo de circuitos eléctricos en tiempo real para estudiantes, con laboratorio de retos y asistente tutor educativo por IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
